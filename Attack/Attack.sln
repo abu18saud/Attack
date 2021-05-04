@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attack", "Attack\Attack.csproj", "{452702B6-E0C1-43BA-9F96-D05E604C1327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452702B6-E0C1-43BA-9F96-D05E604C1327}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{452702B6-E0C1-43BA-9F96-D05E604C1327}.Debug|anycpu.Build.0 = Debug|anycpu
+		{452702B6-E0C1-43BA-9F96-D05E604C1327}.Release|anycpu.ActiveCfg = Release|anycpu
+		{452702B6-E0C1-43BA-9F96-D05E604C1327}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {006AB229-7910-4F68-9622-02602D0DA6EE}
+	EndGlobalSection
+EndGlobal

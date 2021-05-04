@@ -1,0 +1,6 @@
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/bin/Debug/Attack.exe
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/bin/Debug/Attack.pdb
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/obj/Debug/Attack.csprojAssemblyReference.cache
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/obj/Debug/Attack.csproj.CoreCompileInputs.cache
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/obj/Debug/Attack.exe
+/Users/abdullahalsalem/Documents/GitHub/Attack/Attack/Attack/obj/Debug/Attack.pdb
